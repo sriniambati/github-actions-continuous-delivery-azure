@@ -9,7 +9,7 @@ env:
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"Central US"'
   #################################################
-  ### USER PROVIDED VALUES ARE REQUIRED BELOW   ###
+  ### USER PROVIDED VALUES ARE REQUIRED BELOW test   ###
   #################################################
   #################################################
   ### REPLACE USERNAME WITH GH USERNAME         ###
